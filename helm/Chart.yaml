@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-contact-center-operation
+description: "BIAN Service Domain: Contact Center Operation (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Contact Center Session"
+  bian/control-record: "Contact Center Session Operating Session"
